@@ -277,8 +277,6 @@ Mechanical Engineering student and aspiring Data Analyst
 
 This project is part of my learning portfolio and demonstrates my practice with Excel-based data analysis and dashboard design.
 
-- **GitHub:** Add your GitHub profile URL here.
-- **LinkedIn:** Add your LinkedIn profile URL here, if you want to share it.
 
 ## 📜 Disclaimer
 
